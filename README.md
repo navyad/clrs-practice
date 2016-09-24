@@ -1,2 +1,2 @@
 # clrs-practice
-Algorithms pratice from CLRS
+Algorithms practice from CLRS
