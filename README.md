@@ -1,2 +1,2 @@
 # clrs-practice
-Algorithms and Data Structure practice from CLRS.
+Algorithms and Data Structures practice from CLRS.
